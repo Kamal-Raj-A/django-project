@@ -1,8 +1,9 @@
 # Developing a Simple Webserver
-Name: Karthi Govindharaju
-ID: ISAI005
+## NAME :  P . LOKNAATH
 
+## REFERENCE NUMBER : 23004546
 # AIM:
+
 
 Develop a webserver to display about top five web application development frameworks.
 
@@ -28,9 +29,12 @@ Serving the HTML pages.
 
 Testing the webserver
 # PROGRAM:
-Type your code here
+![image](https://github.com/Loknaath-sec/Web_server/assets/145742558/acc9fb27-9aa6-4a85-86ad-c9eed216222a)
+
 # OUTPUT:
-![image](/images/webserver1.png)
+![Webserver_output](https://github.com/Loknaath-sec/Web_server/assets/145742558/220d0574-d279-4c04-a9a6-8c84e4978123)
+
+
 # RESULT:
 
 The program is executed succesfully
